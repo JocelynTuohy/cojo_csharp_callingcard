@@ -1,0 +1,8 @@
+/home/hermitwife/cojo/dotnetcore/core/callingcard/bin/Debug/netcoreapp1.1/callingcard.deps.json
+/home/hermitwife/cojo/dotnetcore/core/callingcard/bin/Debug/netcoreapp1.1/callingcard.runtimeconfig.json
+/home/hermitwife/cojo/dotnetcore/core/callingcard/bin/Debug/netcoreapp1.1/callingcard.runtimeconfig.dev.json
+/home/hermitwife/cojo/dotnetcore/core/callingcard/bin/Debug/netcoreapp1.1/callingcard.dll
+/home/hermitwife/cojo/dotnetcore/core/callingcard/bin/Debug/netcoreapp1.1/callingcard.pdb
+/home/hermitwife/cojo/dotnetcore/core/callingcard/obj/Debug/netcoreapp1.1/callingcard.AssemblyInfo.cs
+/home/hermitwife/cojo/dotnetcore/core/callingcard/obj/Debug/netcoreapp1.1/callingcard.dll
+/home/hermitwife/cojo/dotnetcore/core/callingcard/obj/Debug/netcoreapp1.1/callingcard.pdb
